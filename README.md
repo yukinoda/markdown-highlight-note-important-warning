@@ -26,10 +26,10 @@ https://github.com/orgs/community/discussions/16925
 
 ## Outdated
 The below does not highlight "note" and "warning" anymore
-```md
+
 > **Note**
 > This is a note
 
 > **Warning**
 > This is a warning
-```
+
