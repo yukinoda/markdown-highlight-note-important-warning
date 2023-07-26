@@ -25,11 +25,19 @@ Becomes:
 https://github.com/orgs/community/discussions/16925
 
 ## Outdated
-The below does not highlight "note" and "warning" anymore
+The below does not highlight "note" and "warning" anymore in GitHub markdowns
 
+Input:
+```md
 > **Note**
 > This is a note
 
 > **Warning**
 > This is a warning
+```
+Just becomes:
+> **Note**
+> This is a note
 
+> **Warning**
+> This is a warning
