@@ -22,7 +22,7 @@ Becomes:
 > Critical content demanding immediate user attention due to potential risks.
 
 ## Reference
-https://github.com/orgs/community/discussions/16925
+[[Markdown] An option to highlight a "Note" and "Warning" using blockquote (Beta)](https://github.com/orgs/community/discussions/16925)
 
 ## Outdated
 The below does not highlight "note" and "warning" anymore in GitHub markdowns
